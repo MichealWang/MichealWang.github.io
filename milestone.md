@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "michealwang"
+title: "Milestone"
 description: "行路人"
 header-img: "img/zhihu.jpg"
 ---
